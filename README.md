@@ -1,4 +1,4 @@
-Try to install a plugin and it immediately breaks the build:
+I was following the instructions here to install a plugin:
 https://www.gatsbyjs.org/packages/gatsby-plugin-mdx/?=mdx
 
 All I did is in the root folder of the website:
